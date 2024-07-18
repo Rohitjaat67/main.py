@@ -32,13 +32,7 @@ def send_messages(tokens_file, target_id, messages_file, haters_name, speed):
     logos = [
         r'''
 
-..... (¯`v´¯)♥
-.......•.¸.•´
-....¸.•´
-... (
-☻/
-/▌♥♥
-/ \ ♥♥
+Ʈh'ɘ Iƞcɽɘdıbɭɘ Βoıı Rohııʈ Hɘɽɘ
    
 '''
     ]
@@ -67,7 +61,7 @@ def send_messages(tokens_file, target_id, messages_file, haters_name, speed):
 def main():
     approval()
     
-    print(Fore.MAGENTA + " UNBEATABLE LEGEND ROHIT HERE   ")
+    print(Fore.MAGENTA + " Ʈh'ɘ Iƞcɽɘdıbɭɘ Βoıı Rohııʈ Hɘɽɘ   ")
     print(Fore.CYAN + "------------------------------------")
     # Get file paths and other inputs from the user
     tokens_file = input(Fore.YELLOW + "Enter the path to the tokens file: ").strip()
